@@ -2,7 +2,7 @@
 Sou o Daniel Lorenzo.
 - Nasci em 03/03/2006.
 - Tenho um conhecimento básico em **python**.
-- Curso de Ciências da Computação. 
+- Curso Ciências da Computação. 
 
 
 <!--
