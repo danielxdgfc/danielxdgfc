@@ -1,5 +1,8 @@
-## Olá, tudo bem? Desejo que sim.👋
-Sou o Daniel Lorenzo, nasci em 03/03/2006, tenho um conhecimento básico em **python** e sou um aluno iniciante no curso de Ciências da Computação. 
+## Opa, tranquilo? Desejo que sim.👋
+Sou o Daniel Lorenzo.
+- Nasci em 03/03/2006.
+- Tenho um conhecimento básico em **python**.
+- Curso de Ciências da Computação. 
 
 
 <!--
