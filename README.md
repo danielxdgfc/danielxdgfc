@@ -2,7 +2,9 @@
 Sou o Daniel Lorenzo.
 - Nasci em 03/03/2006.
 - Tenho um conhecimento básico em **python**.
-- Curso Ciências da Computação. 
+- Curso Ciências da Computação.
+- **Meu email**: daniellrezendeduarte@gmail.com
+- Inglês: nivel intermediário 9em evolução)
 
 
 <!--
