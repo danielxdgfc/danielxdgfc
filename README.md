@@ -4,7 +4,7 @@ Sou o Daniel Lorenzo.
 - Tenho um conhecimento básico em **python**.
 - Curso Ciências da Computação.
 - **Meu email**: daniellrezendeduarte@gmail.com
-- Inglês: nivel intermediário 9em evolução)
+- Inglês: nivel intermediário (em evolução)
 
 
 <!--
