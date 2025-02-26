@@ -1,5 +1,6 @@
-## Olá, tudo bem? Desejo que sim.
-Sou o Daniel Lorenzo, nasci em 03/03/2006, tenho um conhecimento básico em python e sou um aluno iniciante no curso de Ciências da Computação. 👋
+## Olá, tudo bem? Desejo que sim.👋
+Sou o Daniel Lorenzo, nasci em 03/03/2006, tenho um conhecimento básico em **python** e sou um aluno iniciante no curso de Ciências da Computação. 
+
 
 <!--
 **danielxdgfc/danielxdgfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
