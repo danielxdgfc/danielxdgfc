@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Desenvolvedor Fullstack</title>
+  </head>
+  <body>
+    <p><b>Nome:</b> Daniel Lorenzo</p>
+    <p><b>Sobre mim:</b>
+    <ul>
+        <li>Nasci em 03/03/2006</li>
+        <li>Tenho um conhecimento básico em Python.</li>
+        <li>Curso Ciências da Computação.</li>
+        <li>Meu email: daniellrezendeduarte@gmail.com </li>
+    </ul>
+</html>
