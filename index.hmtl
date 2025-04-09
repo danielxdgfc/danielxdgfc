@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Futebol Club</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="header">
+    <h1>Futebol Club</h1>
+    <nav class="nav">
+      <ul>
+        <li><a href="#">Início</a></li>
+        <li><a href="#">Partidas</a></li>
+        <li><a href="#">Times</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="matches">
+      <h2>Últimos Jogos</h2>
+      <div class="match">Grêmio 1 x 0 Inter</div>
+      <div class="match">São Paulo 2 x 2 Corinthians</div>
+    </section>
+
+    <section class="teams">
+      <h2>Times em Destaque</h2>
+      <div class="team-card">
+        <img src="images/palmeiras.png" alt="Palmeiras">
+        <h3>Palmeiras</h3>
+      </div>
+      <div class="team-card">
+        <img src="images/flamengo.png" alt="Flamengo">
+        <h3>Flamengo</h3>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2025 Futebol Club. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
